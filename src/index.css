@@ -36,7 +36,7 @@ h1 {
   padding: 0 20px;
   align-items: center;
   background-color: rebeccapurple;
-  h3 {
+  a {
     cursor: pointer;
     color: #fff;
   }
